@@ -154,7 +154,7 @@ __Note:__ This isn't the only way to accomplish implementation, however; this is
 			- This should use `parts[3]` for the last parameter where the gradebooks are instantiated.
 			- Update the message provided by this condition to write to the console "Command not valid, Create requires a name, type of gradebook, if it's weighted (true / false).".
 
-	- [ ] Update `BaseGradeBook.GetGPA`
+	- [ !] Update `BaseGradeBook.GetGPA`
 		- [ ] Add 1 point to GPA when student is `Honors` or `DualEnrolled`
 
 	- [ ] Update `HelpCommand`
